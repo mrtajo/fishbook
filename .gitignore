@@ -1,0 +1,11 @@
+# OS X
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# AppCode
+.idea/
+
+# Xcode
+xcuserdata/
+project.xcworkspace/
